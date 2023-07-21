@@ -1,0 +1,7 @@
+iss53
+
+change1 при створенні, on branch HEAD iss53
+
+change2 work after merge main and hotfix
+
+ second_step
