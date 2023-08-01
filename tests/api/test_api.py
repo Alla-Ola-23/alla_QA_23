@@ -2,6 +2,7 @@ import pytest
 
 
 @pytest.mark.change
+#перевірка можлівості відалення
 def test_remove_name(user):
     user.name = ''
     assert user.name == ''
